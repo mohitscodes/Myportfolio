@@ -11,10 +11,10 @@
     font-family: 'Poppins',sans-serif;
 }
 :root{
-    --bg-color:#000102;
-    --second-bg-color:#390b0a;
+    --bg-color:#001d3d;
+    --second-bg-color:#003566;
     --text-color:#ededed;
-    --main-color:#bf0202;
+    --main-color:#5eb1bf;
 }
 
 html{
@@ -178,10 +178,10 @@ section{
     background: transparent;
     transition:3s;
 }
-.home-imgHover:hover{
+/* .home-imgHover:hover{
     background: var(--bg-color);
     opacity:.5;
-}
+} */
 
 .about{
     display:flex;
